@@ -1,7 +1,7 @@
 # Name: Makefile
-# Author: <insert your name here>
-# Copyright: <insert your copyright message here>
-# License: <insert your license reference here>
+# Author: Florian Zahn
+# Copyright: OpenSource Software
+# License: may be reused free of charge, as long, as orignal author is mentioned */
 
 # This is a prototype Makefile. Modify it according to your needs.
 # You should at least check the settings for
